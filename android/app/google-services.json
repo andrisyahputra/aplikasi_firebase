@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608596195403",
+    "project_id": "new-2024-76b5f",
+    "storage_bucket": "new-2024-76b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608596195403:android:ae4b59ad578da4cfe275ce",
+        "android_client_info": {
+          "package_name": "com.www.andrimc.my.id.aplikasi_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7URkWsSvhAnLRXLw_aCjg2cQjS81gJ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
